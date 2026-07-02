@@ -1,2 +1,2 @@
-<h1>hi Hi 👋, I'm Baraah Alameh</h1>
+<h1>Hi 👋, I'm Baraah Alameh</h1>
 
