@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Baraah Alameh</h1>
 
 <h3 align="center">
-Computer Science Student 💻 | Front-End Developer 🌐 | React Native Learner 📱
+Computer Science Student 💻 | Front-End Developer 🌐 | React Native Enthusiast 📱
 </h3>
 
 <p align="center">
@@ -12,7 +12,7 @@ Currently improving my Front-End development skills and creating projects to str
 <br>
 
 <p align="center">
-  <a href="https://github.com/baraahalameh2005-prog/baraahalameh2005-prog.github.io.git" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-8B5CF6?style=for-the-badge">
+  <a href="https://baraahalameh2005-prog.github.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-8B5CF6?style=for-the-badge" alt="Visit My Portfolio">
   </a>
 </p>
