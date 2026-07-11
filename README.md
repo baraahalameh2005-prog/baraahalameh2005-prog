@@ -12,7 +12,7 @@ Currently improving my Front-End development skills and creating projects to str
 <br>
 
 <p align="center">
-  <a href="https://baraahalameh2005-prog.github.io/" target="_blank">
+  <a href="https://github.com/baraahalameh2005-prog/baraahalameh2005-prog.github.io.git" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-8B5CF6?style=for-the-badge">
   </a>
 </p>
